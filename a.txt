@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-apples
-sweet oranges
-=======
-sweet apples
+sour apples
 oranges
->>>>>>> github/master
+
 kiwis
 carrots
